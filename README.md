@@ -5,6 +5,7 @@ Qijian Zhang, Runmin Cong, Chongyi Li, Ming-Ming Cheng, Yuming Fang, Xiaochun Ca
 
 
 ## The useage of the DAFNet_code:
+- Code can be download from BaiduYun：https://pan.baidu.com/s/1SIbDFsy5E9EnS9T0PhSAew  (code: MVPL) 
 - The training and testing pipeline is organized in run.ipynb (Jupyter Notebook).
 - The evaluation code (python) is modified from this repository: https://github.com/zzhanghub/eval-co-sod. 
   You can simply enter the "./Evaluation" folder and run the "main.py" file to obtain 1) MAE; 2) F-measure; 3) S-measure.
@@ -17,7 +18,7 @@ Qijian Zhang, Runmin Cong, Chongyi Li, Ming-Ming Cheng, Yuming Fang, Xiaochun Ca
 
 ## Results:
 - Our results can be found in the file of ./DAFNet_result.zip
-- The results of thecomparison methods in our paper can be download at BaiduYun: https://pan.baidu.com/s/1R9fSkqoR2uJficHDxhIs4A (code: MVPL) 
+- The results of thecomparison methods in our paper can be download from BaiduYun: https://pan.baidu.com/s/1R9fSkqoR2uJficHDxhIs4A (code: MVPL) 
 
 ## If you use our EORSSD dataste or the DAFNet_code, please cite our paper:
 
