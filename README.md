@@ -4,18 +4,6 @@ Code and result repository for our paper:
 Qijian Zhang, Runmin Cong#, Chongyi Li, Ming-Ming Cheng, Yuming Fang, Xiaochun Cao, Yao Zhao, and Sam Kwong, Dense attention fluid network for salient object detection in optical remote sensing images, IEEE Transactions on Image Processing, vol. 30, pp. 1305-1317, 2021..
 
 
-+ Dataset: DUTLF
-1. This dataset consists of DUTLF-MV, DUTLF-FS, DUTLF-Depth.
-2. The dataset will be expanded to 3000 about real scenes.
-3. We are working on it and will make it publicly available soon. 
-+ Dataset: DUTLF-Depth
-1. The dataset is part of DUTLF dataset captured by Lytro camera, and we selected a more accurate 1200 depth map pairs for more accurate RGB-D saliency detection.     
-2. We create a large scale RGB-D dataset(DUTLF-Depth) with 1200 paired images containing more complex scenarios, such as multiple or transparent objects, similar foreground and background, complex background, low-intensity environment. This challenging dataset can contribute to comprehensively evaluating saliency models.    
-
-![avatar](https://github.com/jiwei0921/DMRA/blob/master/figure/dataset.png)     
-+ The **dataset link** can be found [here](https://pan.baidu.com/s/1FwUFmNBox_gMZ0CVjby2dg). And we split the dataset including 800 training set and 400 test set. 
-
-
 ## The useage of the DAFNet_code:
 - The training and testing pipeline is organized in run.ipynb (Jupyter Notebook).
 - The evaluation code (python) is modified from this repository: https://github.com/zzhanghub/eval-co-sod. 
@@ -34,12 +22,19 @@ Qijian Zhang, Runmin Cong#, Chongyi Li, Ming-Ming Cheng, Yuming Fang, Xiaochun C
 ## If you use our EORSSD dataste or the DAFNet_code, please cite our paper:
 
 @article{DAFNet,
+
   title={Dense attention fluid network for salient object detection in optical remote sensing images},
+  
   author={Zhang, Qijian and Cong, Runmin and Li, Chongyi and Cheng, Ming-Ming and Fang, Yuming and Cao, Xiaochun and Zhao, Yao and Kwong, Sam},
+  
   journal={IEEE Transactions on Image Processing},
+  
   volume={30},
+  
   pages={1305-1317},
+  
   year={2021},
+  
   publisher={IEEE}
 }
 
