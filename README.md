@@ -8,6 +8,7 @@ The useage of the DAFNet_code:
   You can simply enter the "./Evaluation" folder and run the "main.py" file to obtain 1) MAE; 2) F-measure; 3) S-measure.
 
 EORSSD dataset: https://github.com/rmcong/EORSSD-dataset
+
 ORSSD dataset: https://pan.baidu.com/s/1k44UlTLCW17AS0VhPyP7JA
 
 Our results can be found in the file of ./DAFNet_result.zip
