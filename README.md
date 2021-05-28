@@ -5,7 +5,7 @@ Qijian Zhang, Runmin Cong, Chongyi Li, Ming-Ming Cheng, Yuming Fang, Xiaochun Ca
 
 
 ## The useage of the DAFNet_code:
-- Code can be download from BaiduYun：https://pan.baidu.com/s/1SIbDFsy5E9EnS9T0PhSAew  (code: MVPL) 
+- Code can be download from BaiduYun：https://pan.baidu.com/s/1chkqzKGfiVBonFE8_2bEuA  (code: MVPL) 
 - The training and testing pipeline is organized in run.ipynb (Jupyter Notebook).
 - The evaluation code (python) is modified from this repository: https://github.com/zzhanghub/eval-co-sod. 
   You can simply enter the "./Evaluation" folder and run the "main.py" file to obtain 1) MAE; 2) F-measure; 3) S-measure.
