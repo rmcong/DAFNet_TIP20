@@ -1,4 +1,4 @@
-# DAFNet_TIP20
+# DAFNet_TIP21
 Code and result repository for our paper:
 
 Qijian Zhang, Runmin Cong, Chongyi Li, Ming-Ming Cheng, Yuming Fang, Xiaochun Cao, Yao Zhao, and Sam Kwong, Dense attention fluid network for salient object detection in optical remote sensing images, IEEE Transactions on Image Processing, vol. 30, pp. 1305-1317, 2021.
